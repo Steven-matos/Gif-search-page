@@ -19,7 +19,7 @@ export default class App extends Component {
     }
 
     performSearch = (query = 'Shiba') => {
-      axios.get(`http://api.giphy.com/v1/gifs/search?q=${query}&limit=24&api_key=A1f0ssS44F7XZuxQyGQww1FEkGvqGVlD`)
+      axios.get(`https://api.giphy.com/v1/gifs/search?q=${query}&limit=24&api_key=A1f0ssS44F7XZuxQyGQww1FEkGvqGVlD`)
         .then(response => {
             this.setState({
               gifs: response.data.data,
