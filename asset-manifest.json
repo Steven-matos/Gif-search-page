@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gif-search-page/static/css/main.120c39ec.chunk.css",
+    "main.js": "/Gif-search-page/static/js/main.80a03e89.chunk.js",
+    "main.js.map": "/Gif-search-page/static/js/main.80a03e89.chunk.js.map",
+    "runtime~main.js": "/Gif-search-page/static/js/runtime~main.f8313932.js",
+    "runtime~main.js.map": "/Gif-search-page/static/js/runtime~main.f8313932.js.map",
+    "static/js/2.ef5290a5.chunk.js": "/Gif-search-page/static/js/2.ef5290a5.chunk.js",
+    "static/js/2.ef5290a5.chunk.js.map": "/Gif-search-page/static/js/2.ef5290a5.chunk.js.map",
+    "index.html": "/Gif-search-page/index.html",
+    "precache-manifest.054350acd40b07c703918899ed90006b.js": "/Gif-search-page/precache-manifest.054350acd40b07c703918899ed90006b.js",
+    "service-worker.js": "/Gif-search-page/service-worker.js",
+    "static/css/main.120c39ec.chunk.css.map": "/Gif-search-page/static/css/main.120c39ec.chunk.css.map"
+  }
+}
